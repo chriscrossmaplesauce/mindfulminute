@@ -40,7 +40,7 @@ const ENVIRONMENTS = [
     overlay:"linear-gradient(to bottom,rgba(0,10,5,0.45) 0%,rgba(0,20,10,0.62) 100%)",
   },
   {
-    id:"cow", label:"Highland cow", Icon:TreePine,
+    id:"cow", label:"Cow", Icon:TreePine,
     bg:"https://picsum.photos/id/200/1600/900",
     overlay:"linear-gradient(to bottom,rgba(0,10,5,0.45) 0%,rgba(0,20,10,0.62) 100%)",
   },
